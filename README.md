@@ -9,3 +9,4 @@ Maskal новый язык программирования, базируеть�
 
 [![Maskal Code](https://i.imgur.com/xZgCzOd.jpg)](https://i.imgur.com/xZgCzOd.jpg)
 
+
